@@ -1,0 +1,60 @@
+@media screen and (min-width: 1415px){
+    .sidebar-left{
+        margin-right: 250px;
+    }
+
+}
+@media screen and (max-width: 1414px){
+    .sidebar-left{
+        margin-right: 250px;
+    }
+ 
+    .hoverelmnt-1{
+        margin-top: 85px;
+    }
+    .demo, .preview {
+        display: block;
+    }
+    .preview{
+        margin-top: 35px;
+    }
+}
+@media screen and (min-width: 1276px){
+    .sidebar-right{
+        width: 55em;
+        height: 50em;
+    }
+}
+@media screen and (max-width: 1275px ){
+    .main{
+        display: block;
+    }
+    .sidebar-left{
+        text-align: center;
+        margin-right: 0px;
+    }
+    .logo{
+        text-align: left;
+    }
+    h4, p.mono{
+        margin-top: 1em;
+        font-size: 16px;
+    }
+    .text-2{
+        font-size: 45px;
+    }
+    .demo, .preview{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 1125px){
+    h4,p.mono{
+        margin-top: 4em;
+    }
+}
+@media screen and (max-width: 600px){
+    .a-2{
+        display: block;
+        margin-left: 0px;
+    }
+}
