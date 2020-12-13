@@ -19,13 +19,13 @@
         margin-top: 35px;
     }
 }
-@media screen and (min-width: 1276px){
+@media screen and (min-width: 1277px){
     .sidebar-right{
         width: 55em;
         height: 50em;
     }
 }
-@media screen and (max-width: 1275px ){
+@media screen and (max-width: 1276px ){
     .main{
         display: block;
     }
@@ -45,6 +45,7 @@
     }
     .demo, .preview{
         padding: 0px;
+        display: inline-block;
     }
 }
 @media screen and (max-width: 1125px){
